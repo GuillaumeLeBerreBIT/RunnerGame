@@ -492,9 +492,6 @@ while True:
     # Telling the while loop to run not faster then 60 times per second
     clock.tick(60)
 
-
-
-
 ##################### BASICS OF IMAGE #####################
 # To Draw any kind of image == SURFACE 
 # Display surface == Game window anything displayed goes on here. 
